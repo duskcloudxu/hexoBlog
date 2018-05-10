@@ -1,28 +1,91 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
+title: stultus library
+subtitle: 愚者图书馆
+author: duskcloudxu
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+## D:dont know what it is, blocked
+#url: http://kaijun.rocks/hexo-theme-huxblog
+#root: /hexo-theme-huxblog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+
+#Custom Setting Start
+
+# Site settings
+SEOTitle: 愚者图书馆 | stultus's library
+header-img: img/home-bg.jpg
+email: Kaijun.cn@gmail.com
+description: ""
+keyword: ""
+
+
+# SNS settings
+# RSS: false
+#weibo_username:     Demonbane
+#zhihu_username:     Demonbane
+github_username:    duskcloudxu
+#twitter_username:   Demonbane_x
+#facebook_username:  demonbane.cn
+#linkedin_username:  kaijun-chen-42089354
+
+# Build settings
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+# Disqus settings
+disqus_username: hexo-theme-huxblog
+
+# Duoshuo settings
+# duoshuo_username: kaijun
+# Share component is depend on Comment so we can NOT use share only.
+duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+
+#D:dont know what it is, blocked
+## Analytics settings
+## Baidu Analytics
+#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+## Google Analytics
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "former ACMer, machine learning beginner, lifetime OTAKU daze. "
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+# Friends
+friends: [
+    {
+        title: "tautcony's blog",
+        href: "https://tautcony.xyz/"
+    }
+]
+
+
+#Custom Setting End
+
+
 
 # Directory
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: archives
+archive_dir: i_dont_wanna_use_default_archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
@@ -35,24 +98,15 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
-  
-# Home page setting
-# path: Root path for your blogs index page. (default = '')
-# per_page: Posts displayed per page. (0 = disable pagination)
-# order_by: Posts order. (Order by date descending by default)
-index_generator:
-  path: ''
-  per_page: 10
-  order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -73,7 +127,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: huxblog
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,3 +135,4 @@ deploy:
   type: git
   repo:   https://github.com/duskcloudxu/duskcloudxu.github.com.git
   branch: master
+
