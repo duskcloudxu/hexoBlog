@@ -11,9 +11,9 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-## D:dont know what it is, blocked
+## D:blog is held by github, therefore do not need set url and root.
 #url: http://kaijun.rocks/hexo-theme-huxblog
-root: /stultus-library/
+#root:/hexo-theme-huxblog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -22,7 +22,7 @@ permalink_defaults:
 # Site settings
 SEOTitle: 愚者图书馆 | stultus library
 header-img: img/home-bg.jpg
-email: Kaijun.cn@gmail.com
+email: duskcloudxu@gmail.com
 description: ""
 keyword: ""
 

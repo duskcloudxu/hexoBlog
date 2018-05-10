@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcc54d09-a5fd-4317-8cc0-99af5d7743cd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/about-bg.jpg" afterPath="$PROJECT_DIR$/source/img/about-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/avatar.jpg" afterPath="$PROJECT_DIR$/source/img/avatar.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/tag-bg.jpg" afterPath="$PROJECT_DIR$/source/img/tag-bg.jpg" />
+    <list default="true" id="bcc54d09-a5fd-4317-8cc0-99af5d7743cd" name="Default" comment="基本处理完成">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/about/index.md" afterPath="$PROJECT_DIR$/source/about/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/archives/index.md" afterPath="$PROJECT_DIR$/source/archives/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/tags/index.md" afterPath="$PROJECT_DIR$/source/tags/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/huxblog/layout/page.ejs" afterPath="$PROJECT_DIR$/themes/huxblog/layout/page.ejs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1476">
-              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="468">
+              <caret line="13" column="68" lean-forward="false" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -36,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/db.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="13503" lean-forward="false" selection-start-line="0" selection-start-column="13503" selection-end-line="0" selection-end-column="13503" />
+              <caret line="0" column="174" lean-forward="false" selection-start-line="0" selection-start-column="174" selection-end-line="0" selection-end-column="174" />
               <folding />
             </state>
           </provider>
@@ -91,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/archives/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -111,6 +104,7 @@
       <find>lean</find>
       <find>former</find>
       <find>hexo</find>
+      <find>root</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,9 +121,9 @@
         <option value="$PROJECT_DIR$/source/_posts/world.md" />
         <option value="$PROJECT_DIR$/themes/huxblog/layout/page.ejs" />
         <option value="$PROJECT_DIR$/source/about/index.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/source/tags/index.md" />
         <option value="$PROJECT_DIR$/source/archives/index.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -143,8 +137,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
+    <option name="y" value="42" />
     <option name="width" value="2089" />
     <option name="height" value="1462" />
   </component>
@@ -659,15 +652,23 @@
       <updated>1525855873665</updated>
       <workItem from="1525855875820" duration="903000" />
       <workItem from="1525918254151" duration="3792000" />
-      <workItem from="1525930398859" duration="4021000" />
+      <workItem from="1525930398859" duration="6014000" />
     </task>
+    <task id="LOCAL-00001" summary="基本处理完成">
+      <created>1525934750443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525934750443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8716000" />
+    <option name="totallyTimeSpent" value="10709000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2089" height="1462" extended-state="6" />
+    <frame x="0" y="42" width="2089" height="1462" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -705,6 +706,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基本处理完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本处理完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -764,7 +769,7 @@
     <entry file="file://$PROJECT_DIR$/db.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="13503" lean-forward="false" selection-start-line="0" selection-start-column="13503" selection-end-line="0" selection-end-column="13503" />
+          <caret line="0" column="174" lean-forward="false" selection-start-line="0" selection-start-column="174" selection-end-line="0" selection-end-column="174" />
           <folding />
         </state>
       </provider>
@@ -800,14 +805,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1476">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/tags/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -827,6 +824,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="68" lean-forward="false" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+          <folding />
         </state>
       </provider>
     </entry>
