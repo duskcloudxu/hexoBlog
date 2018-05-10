@@ -13,14 +13,14 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 ## D:dont know what it is, blocked
 #url: http://kaijun.rocks/hexo-theme-huxblog
-#root: /hexo-theme-huxblog/
+root: /stultus-library/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 #Custom Setting Start
 
 # Site settings
-SEOTitle: 愚者图书馆 | stultus's library
+SEOTitle: 愚者图书馆 | stultus library
 header-img: img/home-bg.jpg
 email: Kaijun.cn@gmail.com
 description: ""
@@ -41,7 +41,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 
 # Disqus settings
-disqus_username: hexo-theme-huxblog
+disqus_username: duskcloudxu
 
 # Duoshuo settings
 # duoshuo_username: kaijun
@@ -59,12 +59,12 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "former ACMer, machine learning beginner, lifetime OTAKU daze. "
-sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Here is the stultus library, we devote to solve the curse of knowledge."
+sidebar-avatar: img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+featured-tags: true                     # whether  or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
