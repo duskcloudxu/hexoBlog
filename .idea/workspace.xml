@@ -98,8 +98,8 @@
         <entry file="file://$PROJECT_DIR$/source/about/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="36">
-                <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <first_editor relative-caret-position="396">
+                <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -736,7 +736,7 @@
       <workItem from="1531437519521" duration="146000" />
       <workItem from="1531437699079" duration="210000" />
       <workItem from="1531437937785" duration="810000" />
-      <workItem from="1531438777270" duration="4475000" />
+      <workItem from="1531438777270" duration="4591000" />
     </task>
     <task id="LOCAL-00001" summary="基本处理完成">
       <created>1525934750443</created>
@@ -759,11 +759,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531445167401</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add about me page&#10;add comment function">
+      <created>1531470718479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531470718479</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16350000" />
+    <option name="totallyTimeSpent" value="16466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2089" height="1462" extended-state="6" />
@@ -1058,8 +1065,8 @@
     <entry file="file://$PROJECT_DIR$/source/about/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
-            <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <first_editor relative-caret-position="396">
+            <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
             <folding />
           </first_editor>
           <second_editor />
