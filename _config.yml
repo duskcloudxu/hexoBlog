@@ -12,7 +12,8 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 ## D:blog is held by github, therefore no need to set url and root.
-
+url: http://duskcloudxu.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -104,4 +105,9 @@ math:
     css: custom_css_source
     js: custom_js_source # not used
     config:
-      # KaTeX config`
+      # KaTeX config
+# 自动生成sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
