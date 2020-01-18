@@ -1,0 +1,13 @@
+account,date,amount,balance,category,description,memo,notes
+0001855720-S0025,10/29/2019,$3.00 ,$20.85 ,CreditTransfer,Online Transfer Deposit A,From XIN GAN 0001859300 Share 25,婚礼开销
+0001855720-S0025,10/28/2019,($11.39),$17.85 ,DebitNone,Bill Pay Withdrawal #930102777156,%% Card 15 #9573|MON 8AM US|BP 2211 North First S PAYPAL *LYFT RIDE,婚礼开销
+0001855720-S0025,10/26/2019,($45.86),$29.24 ,DebitNone,Bill Pay Withdrawal #929902657339,%% Card 15 #9573|FRI 1PM US|BP 2211 North First S PAYPAL *LYFT RIDE,婚礼开销
+0001855720-S0025,10/26/2019,($3.00),$75.10 ,Fees,Fee Withdrawal Transfer fee,,婚礼开销
+0001855720-S0025,10/25/2019,($27.82),$28.10 ,DebitNone,Bill Pay Withdrawal #929836535762,%% Card 15 #9573|FRI 8AM US|BP 2211 North First S PAYPAL *LYFT RIDE,婚礼开销
+0001855720-S0025,10/25/2019,($3.00),$55.92 ,Fees,Fee Withdrawal Transfer fee,,婚礼开销
+0001855720-S0025,10/7/2019,($10.00),$508.92 ,DiningOut,PAYPAL *STARBUCKS 7700 EASTPORT PARKWAY 40,%% Card 15 #9573|Date 10/06/19 6092808852001505 542952 5814|Card Withdrawal Debit Card,日常
+0001855720-S0025,10/3/2019,"($1,143.00)",$18.92 ,DebitNone,ACH Withdrawal University Gatew,CO: University Gatew|TYPE: WEB PMTS DATA: 404-495-7500,房租
+0001855720-S0025,10/3/2019,($1.95),"$1,161.92 ",DebitNone,ACH Withdrawal RP Resident Dire,CO: RP Resident Dire|TYPE: WEB PMTS DATA: 972-820-3184,日常
+0001855720-S0025,9/30/2019,$2.50 ,$563.87 ,CreditTransfer,Online Transfer Deposit,From ZHANG JIANQI 0001861610 Share 25,日常
+0001855720-S0025,9/29/2019,($14.46),$561.37 ,DebitNone,Bill Pay Withdrawal #927250636886,%% Card 15 #9573|SAT 3PM US|BP 2211 North First S PAYPAL *LYFT RIDE,日常
+,,"($1,246.59)",,,,,
