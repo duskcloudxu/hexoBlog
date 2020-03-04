@@ -3,9 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.7.1"
+    "version": "3.9.0"
   },
   "dependencies": {
+    "g": "^2.0.1",
     "hexo": "^3.7.1",
     "hexo-deployer-git": "^0.3.1",
     "hexo-generator-archive": "^0.1.4",
@@ -19,6 +20,7 @@
     "hexo-renderer-ejs": "^0.3.0",
     "hexo-renderer-kramed": "^0.1.4",
     "hexo-renderer-stylus": "^0.3.1",
-    "hexo-server": "^0.2.0"
+    "hexo-server": "^0.2.0",
+    "whistle": "^2.4.8"
   }
 }

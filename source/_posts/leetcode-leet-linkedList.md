@@ -26,10 +26,10 @@ tags:
 | 提高 |                                                              |                                          |      |
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [视频讲解](https://cspiration.com/login) | Done |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [视频讲解](https://cspiration.com/login) | Done |
-| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [视频讲解](https://cspiration.com/login) |      |
-| 148  | [Sort List](https://leetcode.com/problems/sort-list/description/) | [视频讲解](https://cspiration.com/login) |      |
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [视频讲解](https://cspiration.com/login) | Done |
+| 148  | [Sort List](https://leetcode.com/problems/sort-list/description/) | [视频讲解](https://cspiration.com/login) | Done |
 | 25   | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [视频讲解](https://cspiration.com/login) |      |
-| 61   | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [视频讲解](https://cspiration.com/login) |      |
-| 86   | [Partition List](https://leetcode.com/problems/partition-list/description/) | [视频讲解](https://cspiration.com/login) |      |
+| 61   | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [视频讲解](https://cspiration.com/login) | Done |
+| 86   | [Partition List](https://leetcode.com/problems/partition-list/description/) | [视频讲解](https://cspiration.com/login) | Done |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [视频讲解](https://cspiration.com/login) |      |
 | 147  | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | [视频讲解](https://cspiration.com/login) |      |
